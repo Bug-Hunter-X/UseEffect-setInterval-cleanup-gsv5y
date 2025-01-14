@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React's useEffect hook: forgetting to clean up after setInterval.  The bug.js file shows the incorrect implementation that leads to memory leaks.  The bugSolution.js file provides the corrected version.
